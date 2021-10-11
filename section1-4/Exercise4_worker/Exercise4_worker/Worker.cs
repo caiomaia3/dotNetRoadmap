@@ -20,7 +20,7 @@ namespace Exercise4_worker
         {
             Console.Write("Dados atualizados:");
             Console.WriteLine(Nome + Nome + ", $ " +
-                    (percentual * SalarioLiquido()/100).ToString("F2", CultureInfo.InvariantCulture) + ".");
+                    (percentual * SalarioBruto/100 + SalarioLiquido()).ToString("F2", CultureInfo.InvariantCulture) + ".");
         }
         public override string ToString()
         {

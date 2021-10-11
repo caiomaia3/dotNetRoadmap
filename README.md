@@ -9,3 +9,10 @@ Este repositório tem o objetivo de armazenar os projetos relacionados ao meu ap
 
 1. [Primeiro](primeiro) - Hello World no C#.
 2. [Course](Course) - Exercício de uso de tipos de variáveis.
+00. [dolarCalc](dolarCalc) - Exercício de classes estáticas.
+
+
+### Section 5
+
+1. [Exercício de Fixo]() Exercício de fixação dos assunto: construtores, encapsulamento, sobrecarga, properties e auto properties e modificadores de acesso. Gerenciador de conta bancária.
+

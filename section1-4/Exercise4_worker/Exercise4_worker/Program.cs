@@ -20,7 +20,7 @@ namespace Exercise4_worker
             Console.WriteLine("Dados do funcionário:"+funcionario);
 
             Console.Write("Digite a porcentagem para aumentar o salário:");
-            percentual = double.Parse(Console.ReadLine());
+            funcionario.AumentarSalario(double.Parse(Console.ReadLine()));
 
 
             
