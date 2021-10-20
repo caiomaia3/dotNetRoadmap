@@ -1,3 +1,5 @@
+![header](img\programming.jpg)
+
 # dotNetRoadmap
 A repository to learn C# and .NET
 
@@ -14,5 +16,14 @@ Este repositório tem o objetivo de armazenar os projetos relacionados ao meu ap
 
 ### Section 5
 
-1. [Exercício de Fixo]() Exercício de fixação dos assunto: construtores, encapsulamento, sobrecarga, properties e auto properties e modificadores de acesso. Gerenciador de conta bancária.
+1. [Exercício de Fixação](section5) Exercício de fixação dos assunto: construtores, encapsulamento, sobrecarga, properties e auto properties e modificadores de acesso. Gerenciador de conta bancária.
 
+### Section 6
+
+[Gerenciamento de Trabalhador](section6\EmployeeManager) Neste exercício foi desenvolvido um sistema de cadastro e gerenciamento de salário de colaboradores.
+
+[Exercício de Matriz](section6\MatrixExample) Este exercício trabalhou as habilidades de percorrer elementos de matrizes bem como acessar e imprimir seus elementos.
+
+### Section 9
+
+[Ordem de Produto]() Nesta seção foi desenvolvido um sistema para cadastro de cliente, produtos e ordens de compra. Além do disto, informações em forma de relatório são exibidas.
