@@ -1,4 +1,4 @@
-![header](img\programming.jpg)
+![header](img\programming.png)
 
 # dotNetRoadmap
 A repository to learn C# and .NET
