@@ -27,3 +27,7 @@ Este repositório tem o objetivo de armazenar os projetos relacionados ao meu ap
 ### Section 9
 
 [Ordem de Produto]() Nesta seção foi desenvolvido um sistema para cadastro de cliente, produtos e ordens de compra. Além do disto, informações em forma de relatório são exibidas.
+
+### Section 12
+
+[Jogo de Xadrez](https://github.com/caiomaia3/xadrez-console) Esta seção contém um jogo de xadrez feito em console. O código do jogo está em outro repositório que pode ser acessado pelo link no início deste parágrafo.
