@@ -31,3 +31,7 @@ Este repositório tem o objetivo de armazenar os projetos relacionados ao meu ap
 ### Section 12
 
 [Jogo de Xadrez](https://github.com/caiomaia3/xadrez-console) Esta seção contém um jogo de xadrez feito em console. O código do jogo está em outro repositório que pode ser acessado pelo link no início deste parágrafo.
+
+### Section 15
+
+[Set]() Esta seção apresenta o conteúdo de *generics*, conjuntos e dicionários. Aqui no link está a solução de um exercício proposto de conjuntos.
